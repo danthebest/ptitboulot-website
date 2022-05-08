@@ -28,7 +28,8 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
-  </head>
+
+</head>
   <body>
 
 
@@ -526,25 +527,33 @@
 	          </div>
           </div>
         </div>
-
         <div class="row block-9">
           <div class="col-md-6 ftco-animate">
-            <form action="#" class="contact-form p-4 p-md-5 py-md-5">
-			  <p>Sentez vous libre de nous laisser un message même si c'est juste pour dire bonjour 😃</p>
+            <form method="POST" action="traitement.php" class="contact-form p-4 p-md-5 py-md-5">
+				<p>Sentez vous libre de nous laisser un message même si c'est juste pour dire bonjour 😃</p>
+				<?php
+					if(isset($_GET['mail'])){
+						if ($_GET['mail'] === "sent") { ?>
+							<p style="color: #28a745">Votre mail a été envoyer.</p>
+					<?php } else { ?>
+							<p style="color: #dc3545">Envoi échoué, veuillez ressayer ultérieurement.</p>
+					<?php }
+					}
+				?>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Nom et prénom">
+                <input type="text" class="form-control" name="nom" placeholder="Nom et prénom">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Email">
+                <input type="text" class="form-control" name="email" placeholder="Email">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Objet">
+                <input type="text" class="form-control" name="objet" placeholder="Objet">
               </div>
               <div class="form-group">
-                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
+                <textarea name="message" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
               </div>
               <div class="form-group">
-                <input type="submit" value="Soumettre" class="btn btn-primary py-3 px-5">
+                <input type="submit" name="soumettre" value="Soumettre" class="btn btn-primary py-3 px-5">
               </div>
             </form>
           </div>
@@ -599,5 +608,6 @@
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
     <script src="js/google-map.js"></script>
     <script src="js/main.js"></script>
+
   </body>
 </html>
