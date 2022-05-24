@@ -76,7 +76,7 @@
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center">
           <div class="col-lg-7 ftco-animate d-flex align-items-center">
           	<div class="text text-center">
-          		<h1 class="logo"><a href="index.html"><span class="flaticon-freelancer"></span>P'tit Boulot<small style="color: white;">Agence pour l'emploi</small></a></h1>
+          		<h1 class="logo"><a href="index.php"><span class="flaticon-freelancer"></span>P'tit Boulot<small style="color: white;">Agence pour l'emploi</small></a></h1>
 		  				<h1 class="mb-4">Nous créons <br> des opportunités</h1>
 		  				<p class="mb-4">Nous permettons à des jeunes qualifiés de trouver du boulot auprès d'entreprises partenaires et d'être remunérés pour des services ponctuels.</p>
 		  				<p class="mt-5"><a href="#" class="btn-custom">Contactez-nous</a></p>
@@ -94,9 +94,9 @@
     			<div class="col-md-6 col-lg-6 d-flex">
     				<div class="img-about img d-flex align-items-stretch">
     					<div class="overlay"></div>
-	    				<div class="img img-video d-flex align-self-stretch align-items-center" style="background-image:url(images/about-2.jpg);">
+	    				<div class="img img-video d-flex align-self-stretch align-items-center" style="background-image:url(images/presentation.jfif);">
 	    					<div class="video justify-content-center">
-									<a href="https://vimeo.com/45830194" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
+									<a href="https://youtu.be/VPGaRMfmCGM" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
 										<span class="ion-ios-play"></span>
 			  					</a>
 								</div>
@@ -174,7 +174,7 @@
 	        	</div>
 	        </div>
 	        <div class="col-md-3 d-flex align-items-stretch">
-	        	<div class="img w-100" style="background-image: url(images/about.jpg);"></div>
+	        	<div class="img w-100" style="background-image: url(images/black-worker.jfif);"></div>
 	        </div>
         </div>
         <div class="row progress-circle pt-md-5">
@@ -182,13 +182,13 @@
         		<div class="row">
 					    <div class="p-md-4 mt-4">
 					    	<div class="col-md-8 ftco-animate">
-						    	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast.</p>
+						    	<p>Avec un ordinateur et une connexion internet commencez à faire de l'argent depuis votre position en travaillant avec nos entreprises partenaires.<br><span style="color: #fff">Nous exploitons vos compétences pas vos diplômes!</span></p>
 					    	</div>
 					    </div>
 					  </div>
 					</div>
 					<div class="col-md-5 d-flex align-items-stretch">
-	        	<div class="img w-100" style="background-image: url(images/about-2.jpg);"></div>
+	        	<div class="img w-100" style="background-image: url(images/freelancer.jpg);"></div>
 	        </div>
 		  	</div>
 		  </div>
@@ -196,188 +196,14 @@
 		<!-- End Services Section -->
 
 		<!-- Start Testimonials Section -->
-		<section id="work" class="ftco-section">
-		  <div class="container">
-		  	<div class="row justify-content-center">
-		  		<div class="col-md-4 heading-section text-center ftco-animate pb-5">
-            <h2 class="mb-4">Selected Projects</h2>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country.</p>
-          </div>
-		  	</div>
-		  </div> 
-		  <div class="container-fluid px-md-0">
-        <div class="row no-gutters">
-          <div class="col-md-4 ftco-animate">
-            <div class="model img d-flex align-items-end" style="background-image: url(images/model-1.jpg);">
-            	<a href="images/model-1.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
-	    					<span class="icon-expand"></span>
-	    				</a>
-            	<div class="desc w-100 px-4">
-	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
-	              </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 ftco-animate">
-            <div class="model img d-flex align-items-end" style="background-image: url(images/model-2.jpg);">
-            	<a href="images/model-2.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
-	    					<span class="icon-expand"></span>
-	    				</a>
-            	<div class="desc w-100 px-4">
-	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
-	              </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 ftco-animate">
-            <div class="model img d-flex align-items-end" style="background-image: url(images/model-3.jpg);">
-            	<a href="images/model-3.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
-	    					<span class="icon-expand"></span>
-	    				</a>
-            	<div class="desc w-100 px-4">
-	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
-	              </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-4 ftco-animate">
-            <div class="model img d-flex align-items-end" style="background-image: url(images/model-4.jpg);">
-            	<a href="images/model-4.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
-	    					<span class="icon-expand"></span>
-	    				</a>
-            	<div class="desc w-100 px-4">
-	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
-	              </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 ftco-animate">
-            <div class="model img d-flex align-items-end" style="background-image: url(images/model-5.jpg);">
-            	<a href="images/model-5.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
-	    					<span class="icon-expand"></span>
-	    				</a>
-            	<div class="desc w-100 px-4">
-	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
-	              </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 ftco-animate">
-            <div class="model img d-flex align-items-end" style="background-image: url(images/model-6.jpg);">
-            	<a href="images/model-6.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
-	    					<span class="icon-expand"></span>
-	    				</a>
-            	<div class="desc w-100 px-4">
-	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
-	              </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-4 ftco-animate">
-            <div class="model img d-flex align-items-end" style="background-image: url(images/model-7.jpg);">
-            	<a href="images/model-7.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
-	    					<span class="icon-expand"></span>
-	    				</a>
-            	<div class="desc w-100 px-4">
-	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
-	              </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 ftco-animate">
-            <div class="model img d-flex align-items-end" style="background-image: url(images/model-8.jpg);">
-            	<a href="images/model-8.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
-	    					<span class="icon-expand"></span>
-	    				</a>
-            	<div class="desc w-100 px-4">
-	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
-	              </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 ftco-animate">
-            <div class="model img d-flex align-items-end" style="background-image: url(images/model-9.jpg);">
-            	<a href="images/model-9.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
-	    					<span class="icon-expand"></span>
-	    				</a>
-            	<div class="desc w-100 px-4">
-	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
-	              </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-4 ftco-animate">
-            <div class="model img d-flex align-items-end" style="background-image: url(images/model-10.jpg);">
-            	<a href="images/model-10.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
-	    					<span class="icon-expand"></span>
-	    				</a>
-            	<div class="desc w-100 px-4">
-	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
-	              </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 ftco-animate">
-            <div class="model img d-flex align-items-end" style="background-image: url(images/model-11.jpg);">
-            	<a href="images/model-11.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
-	    					<span class="icon-expand"></span>
-	    				</a>
-            	<div class="desc w-100 px-4">
-	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
-	              </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 ftco-animate">
-            <div class="model img d-flex align-items-end" style="background-image: url(images/model-12.jpg);">
-            	<a href="images/model-12.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
-	    					<span class="icon-expand"></span>
-	    				</a>
-            	<div class="desc w-100 px-4">
-	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
-	              </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div> 
-		</section>
-		<!-- End Project Section -->
 
 		<section class="ftco-section testimony-section" id="testimonial">
 			<div class="container">
 				<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-4 heading-section ftco-animate">
-          	<span class="subheading">Testimony</span>
-            <h2 class="mb-4">Our satisfied customer says</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
+          	<span class="subheading">Témoignages</span>
+            <h2 class="mb-4">Ils nous font confiance</h2>
+            <p>P'tit Boulot met tout en oeuvre afin de donner une chance à tous les jeunes quelque soit leur niveau en les aidant à développer des compétences et en les proposant sur le marché de l'emploi.</p>
           </div>
         </div>
         <div class="row ftco-animate">
@@ -534,9 +360,9 @@
 				<?php
 					if(isset($_GET['mail'])){
 						if ($_GET['mail'] === "sent") { ?>
-							<p style="color: #28a745">Votre mail a été envoyer.</p>
+							<p style="color: #28a745">Votre mail a bien été envoyé.</p>
 					<?php } else { ?>
-							<p style="color: #dc3545">Envoi échoué, veuillez ressayer ultérieurement.</p>
+							<p style="color: #dc3545">Echec de l'envoi, veuillez ressayer ultérieurement.</p>
 					<?php }
 					}
 				?>
@@ -578,9 +404,8 @@
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 
 					  <ul class="ftco-footer-social p-0">
-              <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-              <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-              <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+              <li class="ftco-animate"><a href="https://www.linkedin.com/company/p-tits-boulots"><span class="icon-linkedin"></span></a></li>
+              <li class="ftco-animate"><a href="https://www.facebook.com/ptitboulot"><span class="icon-facebook"></span></a></li>
             </ul>
           </div>
         </div>
