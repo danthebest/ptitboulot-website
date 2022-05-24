@@ -217,10 +217,10 @@
                     </span>
                   </div>
                   <div class="text">
-                    <p class="mb-5 pl-4 line">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p class="mb-5 pl-4 line">Depuis notre création en 2021, nous connaissons une expansion de notre activité grâce à la qualité des candidats découverts via P’tit boulot. La diffusion de nos offres sur ce site nous a permis de recruter des jeunes talents. Nous sommes très satisfaits de l’utilisation de p’tit boulot. Le site est attractif, donne un accès rapide aux offres et aux candidatures. Le service clientèle est efficace, disponible et à l'écoute.</p>
                     <div class="pl-5">
-	                    <p class="name">Garreth Smith</p>
-	                    <span class="position">CEO Founder of Commercial Building</span>
+	                    <p class="name">Yao Félix</p>
+	                    <span class="position">CEO Babi Houzz</span>
                     </div>
                   </div>
                 </div>
@@ -233,10 +233,10 @@
                     </span>
                   </div>
                   <div class="text">
-                    <p class="mb-5 pl-4 line">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p class="mb-5 pl-4 line">A travers des connaissances j’ai pu rencontrer un manager de P’tit Boulot, les nombreuses activités de cette plateforme m’ont permis d’obtenir un poste de CM en freelance pour deux entreprises et je me fais pas mal de gains grâce à cela.</p>
                     <div class="pl-5">
-	                    <p class="name">Garreth Smith</p>
-	                    <span class="position">CEO Founder of Interior Design</span>
+	                    <p class="name">Ezechiel N’Guettia</p>
+	                    <span class="position">Community manager</span>
 	                  </div>
                   </div>
                 </div>
@@ -249,42 +249,10 @@
                     </span>
                   </div>
                   <div class="text">
-                    <p class="mb-5 pl-4 line">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p class="mb-5 pl-4 line">P’tit boulot met en contact des personnes désireuses d’avoir un emploi en permanence ou en freelance avec un certain nombre d’entreprises. J’ai découvert la plateforme par sur Linkedin. Les services qui m'y sont recommandés me permettent de doubler mes revenus mensuels. Je suis donc satisfait et heureux  d’avoir connu P’tit Boulot</p>
                     <div class="pl-5">
-	                    <p class="name">Garreth Smith</p>
-	                    <span class="position">Exterior Designer</span>
-	                  </div>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="testimony-wrap p-4 pb-5">
-                  <div class="user-img mb-4" style="background-image: url(images/person_1.jpg)">
-                    <span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                  </div>
-                  <div class="text">
-                    <p class="mb-5 pl-4 line">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <div class="pl-5">
-	                    <p class="name">Garreth Smith</p>
-	                    <span class="position">Landscape Designer</span>
-	                  </div>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="testimony-wrap p-4 pb-5">
-                  <div class="user-img mb-4" style="background-image: url(images/person_1.jpg)">
-                    <span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                  </div>
-                  <div class="text">
-                    <p class="mb-5 pl-4 line">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <div class="pl-5">
-	                    <p class="name">Garreth Smith</p>
-	                    <span class="position">System Analyst</span>
+	                    <p class="name">Mamadi Touré</p>
+	                    <span class="position">Infographiste</span>
 	                  </div>
                   </div>
                 </div>
