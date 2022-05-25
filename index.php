@@ -316,12 +316,12 @@
           		</div>
           		<div>
 	          		<h3 class="mb-4">Site internet</h3>
-		            <p><a href="ptitboulot.com">ptitboulot.com</a></p>
+		            <p><a href="https://ptitboulot.com">ptitboulot.com</a></p>
 	            </div>
 	          </div>
           </div>
         </div>
-        <div class="row block-9">
+        <div class="row block-9" id="contact-form">
           <div class="col-md-6 ftco-animate">
             <form method="POST" action="traitement.php" class="contact-form p-4 p-md-5 py-md-5">
 				<p>Sentez vous libre de nous laisser un message même si c'est juste pour dire bonjour 😃</p>

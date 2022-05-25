@@ -15,7 +15,7 @@
         $message = $_POST['message'];
 
         if(empty($message)) {
-            header('location:index.html?message=vide#contact');
+            header('location:index.html?message=vide#contact-form');
         } else {
             /*$req = $connexion->prepare("INSERT INTO messages (email, nom, objet, message, created_at) VALUES (:email, :nom, :objet, :message, NOW())");
             $req->bindValue(':email', $email);
@@ -73,15 +73,15 @@
                 $mail->AltBody = $message;
 
                 if(!$mail->send()) {
-                    //header('location:index.php?msg=saved&mail=unsent#contact');
-                    echo "<script>window.location.assign('index.php?msg=saved&mail=unsent#contact')</script>";
+                    //header('location:index.php?msg=saved&mail=unsent#contact-form');
+                    echo "<script>window.location.assign('index.php?msg=saved&mail=unsent#contact-form')</script>";
                 } else {
-                    //header('location:index.php?msg=saved&mail=sent#contact');
-                    echo "<script>window.location.assign('index.php?msg=saved&mail=sent#contact')</script>";
+                    //header('location:index.php?msg=saved&mail=sent#contact-form');
+                    echo "<script>window.location.assign('index.php?msg=saved&mail=sent#contact-form')</script>";
                 }
                     
             /*} else {
-                header('location:index.php?msg=unsaved#contact');
+                header('location:index.php?msg=unsaved#contact-form');
             }*/
         }
     }
