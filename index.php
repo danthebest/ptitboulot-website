@@ -211,7 +211,7 @@
             <div class="carousel-testimony owl-carousel">
               <div class="item">
                 <div class="testimony-wrap p-4 pb-5">
-                  <div class="user-img mb-4" style="background-image: url(images/person_1.jpg)">
+                  <div class="user-img mb-4" style="background-image: url(images/person_1.jpeg)">
                     <span class="quote d-flex align-items-center justify-content-center">
                       <i class="icon-quote-left"></i>
                     </span>
@@ -219,15 +219,15 @@
                   <div class="text">
                     <p class="mb-5 pl-4 line">Depuis notre création en 2021, nous connaissons une expansion de notre activité grâce à la qualité des candidats découverts via P’tit boulot. La diffusion de nos offres sur ce site nous a permis de recruter des jeunes talents. Nous sommes très satisfaits de l’utilisation de p’tit boulot. Le site est attractif, donne un accès rapide aux offres et aux candidatures. Le service clientèle est efficace, disponible et à l'écoute.</p>
                     <div class="pl-5">
-	                    <p class="name">Yao Félix</p>
-	                    <span class="position">CEO Babi Houzz</span>
+	                    <p class="name">Daniel TOSSOU</p>
+	                    <span class="position">Entrepreneur, Designer UI</span>
                     </div>
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="testimony-wrap p-4 pb-5">
-                  <div class="user-img mb-4" style="background-image: url(images/person_2.jpg)">
+                  <div class="user-img mb-4" style="background-image: url(images/person_2.jpeg)">
                     <span class="quote d-flex align-items-center justify-content-center">
                       <i class="icon-quote-left"></i>
                     </span>
@@ -235,7 +235,7 @@
                   <div class="text">
                     <p class="mb-5 pl-4 line">A travers des connaissances j’ai pu rencontrer un manager de P’tit Boulot, les nombreuses activités de cette plateforme m’ont permis d’obtenir un poste de CM en freelance pour deux entreprises et je me fais pas mal de gains grâce à cela.</p>
                     <div class="pl-5">
-	                    <p class="name">Ezechiel N’Guettia</p>
+	                    <p class="name">Mamadi Keita</p>
 	                    <span class="position">Community manager</span>
 	                  </div>
                   </div>
@@ -251,8 +251,8 @@
                   <div class="text">
                     <p class="mb-5 pl-4 line">P’tit boulot met en contact des personnes désireuses d’avoir un emploi en permanence ou en freelance avec un certain nombre d’entreprises. J’ai découvert la plateforme par sur Linkedin. Les services qui m'y sont recommandés me permettent de doubler mes revenus mensuels. Je suis donc satisfait et heureux  d’avoir connu P’tit Boulot</p>
                     <div class="pl-5">
-	                    <p class="name">Mamadi Touré</p>
-	                    <span class="position">Infographiste</span>
+	                    <p class="name">Oumar MAIGA</p>
+	                    <span class="position">Developpeur web et mobile</span>
 	                  </div>
                   </div>
                 </div>
@@ -324,7 +324,7 @@
         <div class="row block-9" id="contact-form">
           <div class="col-md-6 ftco-animate">
             <form method="POST" action="traitement.php" class="contact-form p-4 p-md-5 py-md-5">
-				<p>Sentez vous libre de nous laisser un message même si c'est juste pour dire bonjour 😃</p>
+				<p>Sentez vous libre de nous laisser un message même si c'est juste pour dire bonjour ðÂÂÂ</p>
 				<?php
 					if(isset($_GET['mail'])){
 						if ($_GET['mail'] === "sent") { ?>
