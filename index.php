@@ -249,7 +249,7 @@
                     </span>
                   </div>
                   <div class="text">
-                    <p class="mb-5 pl-4 line">P’tit boulot met en contact des personnes désireuses d’avoir un emploi en permanence ou en freelance avec un certain nombre d’entreprises. J’ai découvert la plateforme par sur Linkedin. Les services qui m'y sont recommandés me permettent de doubler mes revenus mensuels. Je suis donc satisfait et heureux  d’avoir connu P’tit Boulot</p>
+                    <p class="mb-5 pl-4 line">P’tit boulot met en contact des personnes désireuses d’avoir un emploi en permanence ou en freelance avec un certain nombre d’entreprises. J’ai découvert la plateforme à travers Linkedin. Les services qui m'y sont recommandés me permettent de doubler mes revenus mensuels. Je suis donc satisfait et heureux  d’avoir connu P’tit Boulot</p>
                     <div class="pl-5">
 	                    <p class="name">Oumar MAIGA</p>
 	                    <span class="position">Developpeur web et mobile</span>
@@ -324,7 +324,7 @@
         <div class="row block-9" id="contact-form">
           <div class="col-md-6 ftco-animate">
             <form method="POST" action="traitement.php" class="contact-form p-4 p-md-5 py-md-5">
-				<p>Sentez vous libre de nous laisser un message même si c'est juste pour dire bonjour ðÂÂÂ</p>
+				<p>N'hésitez pas à nous contater pour toute question ou suggestion</p>
 				<?php
 					if(isset($_GET['mail'])){
 						if ($_GET['mail'] === "sent") { ?>
